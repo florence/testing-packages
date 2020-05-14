@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define install-platform "win32\\x86_64") (define move-foreign-libs (quote ("libatk-1.0-0.dll")))))

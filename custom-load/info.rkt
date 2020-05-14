@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define package-content-state (quote (built "7.7"))) (define collection "custom-load") (define deps (quote ("base"))) (define build-deps (quote ("racket-doc" "scribble-lib"))) (define name "custom-load") (define scribblings (quote (("custom-load.scrbl" ())))) (define compile-omit-paths (quote ("test")))))

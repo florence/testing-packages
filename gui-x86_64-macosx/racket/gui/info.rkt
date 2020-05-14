@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define install-platform "x86_64-macosx") (define move-foreign-libs (quote ("MMTabBarView.framework" "PSMTabBarControl.framework" "libatk-1.0.0.dylib"))) (define compile-omit-paths (quote ("MMTabBarView.framework" "PSMTabBarControl.framework")))))

@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define install-platform "win32\\i386") (define move-foreign-libs (quote ("longdouble.dll" "ssleay32.dll" "libeay32.dll" "libiconv-2.dll")))))

@@ -1,0 +1,11 @@
+gui-ppc-macosx
+Copyright (c) 2010-2018 PLT Design Inc.
+
+Individual components of this package are distributed under a multiple
+licenses, including the GNU Lesser General Public License (LGPL) and
+the BSD license.
+
+ATK is released under the GNU Library General Public License (GNU LGPL).
+
+PSMTabBarControl is BSD licensed.
+See: http://www.positivespinmedia.com/dev/PSMTabBarControl.html

@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define move-foreign-libs (quote ("myssink.dll"))) (define collection (quote multi)) (define install-platform "win32\\i386")))

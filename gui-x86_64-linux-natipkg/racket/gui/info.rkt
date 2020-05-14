@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define install-platform "x86_64-linux-natipkg") (define move-foreign-libs (quote ("libgdk_pixbuf-2.0.so.0" "libatk-1.0.so.0" "libgdk-x11-2.0.so.0" "libgtk-x11-2.0.so.0")))))

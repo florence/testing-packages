@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define install-platform "x86_64-linux-natipkg") (define move-foreign-libs (quote ("libmpfr.so.4" "libgmp.so.10")))))

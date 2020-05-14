@@ -1,0 +1,1 @@
+(module info setup/infotab (#%module-begin (define assume-virtual-sources #t) (define package-content-state (quote (binary "7.6"))) (define move-foreign-libs (quote ("libsqlite3.0.dylib"))) (define collection (quote multi)) (define install-platform "ppc-macosx")))
